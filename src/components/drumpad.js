@@ -21,7 +21,7 @@ function Drumpad(props) {
                 }
             }
         });
-    },[])
+    })
     return (
          <button 
             className='drum-pad'
